@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanessa Reynolds</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+
+    <h1 style="text-align:center;">Vanessa Reynolds</h1>
+
+    <h2>Bio</h2>
+    <p>
+        I am passionate about research, city planning, culture, and community development. 
+        I enjoy eating food, watching TV, traveling, and sports.  
+        I love basketball and my favorite number is 9. My favorite athlete is LeBron James, 
+        but I enjoy cheering for all Toronto teams! 🏀⚾⚽
+    </p>
+
+    <h2>School / Program</h2>
+    <p>
+        Geography
+    </p>
+
+    <h2>Projects & Assignments</h2>
+    <ul>
+     <li>Assignment: Building and Hosting Your Personal Website</li>
+    </ul>
+    <p>
+        <strong>Objective:</strong> This assignment is designed to give you practical experience in web development and hosting. 
+        You will create a personal website by modifying a provided template and then host it online using GitHub.
+    </p>
+
+    <h2>Favorite Sports & Teams</h2>
+    <p>
+        I enjoy playing and watching basketball the most. I also like baseball, soccer, and hockey.  
+        My favorite Toronto teams: Raptors, Blue Jays, Maple Leafs, and Toronto FC.
+    </p>
+
+    <h2>Photos</h2>
+    <p>
+        <img src="images/basketball.jpg" alt="Basketball" width="200">
+        <img src="images/raptors.jpg" alt="Toronto Raptors" width="200">
+        <img src="images/bluejays.jpg" alt="Toronto Blue Jays" width="200">
+    </p>
+
+</body>
+</html>
